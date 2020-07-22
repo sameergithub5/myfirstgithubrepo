@@ -1,0 +1,1 @@
+git pull demo file created on remote branch now will try to pull on local to see fast forward merge 
